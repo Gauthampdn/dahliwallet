@@ -330,3 +330,4 @@ The MCP Wallet is a simple proxy that:
 5. **Streams responses** back to your client seamlessly
 
 Everything is encrypted so even if someone gets access to the database, they can't see your actual MCP server URLs or API keys.
+# dahliwallet
